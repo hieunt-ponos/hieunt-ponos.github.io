@@ -1,0 +1,1 @@
+import{_ as o,x as n,z as s,B as r,C as a,g as l,y as p,D as c}from"./DXJpeVkL.js";const d={};function m(i,e){const t=l("AppAlert");return p(),n("div",null,[e[1]||(e[1]=s("h1",null,"Welcome to the homepage",-1)),r(t,null,{default:a(()=>[...e[0]||(e[0]=[c(" This is an auto-imported component ",-1)])]),_:1})])}const _=o(d,[["render",m]]);export{_ as default};

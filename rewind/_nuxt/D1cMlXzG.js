@@ -1,0 +1,1 @@
+import{_ as n,x as t,z as o,y as r}from"./DXJpeVkL.js";const s={};function c(a,e){return r(),t("section",null,[...e[0]||(e[0]=[o("p",null,"2025",-1)])])}const _=n(s,[["render",c]]);export{_ as default};
